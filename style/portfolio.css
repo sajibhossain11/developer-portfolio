@@ -124,3 +124,68 @@ main{
 .skill-description{
     text-align: left;
 }
+
+/* resume  */
+.resume-container{
+    display: flex;
+    gap: 24px ;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.resume .description{
+    color: #757575;
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+.btn2{
+    width: 120px;
+    height: 50px;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+}
+  /* last  */
+  .contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 13px 200px;
+  }
+  
+  .section-p{
+    margin-bottom: 20px;
+  }
+  .contact input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+
+  }
+  input{
+    height: 44px;
+    width: 100%;
+    padding-left: 15px;
+  }
+  textarea{
+    padding: 15px 0px 0px 20px;
+  }
