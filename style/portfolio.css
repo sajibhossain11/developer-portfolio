@@ -60,6 +60,25 @@ nav li{
     color: #757575;
 
 }
+.btncv{
+    width: 150px;
+    height: 40px;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+}
+.btncontact{
+    width: 150px;
+    height: 40px;
+    background-color: #8f8984;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+
+}
 /* main  */
 main{
     max-width: 1140px;
